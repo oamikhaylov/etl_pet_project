@@ -16,8 +16,8 @@ LAYER = "raw"
 SOURCE = "earthquake"
 
 # S3
-ACCESS_KEY = Variable.get("access_key")
-SECRET_KEY = Variable.get("secret_key")
+ACCESS_KEY = Variable.get("IUHemLelZGp983rIjhMn")
+SECRET_KEY = Variable.get("KMfs246JfT1d8FudJks9REAqR5dri8M9lMP3zwu9")
 
 LONG_DESCRIPTION = """
 # LONG DESCRIPTION
